@@ -64,5 +64,38 @@
     "zones": 2,
     "run_min": 86,
     "date": "2026-11-10"
+  },
+  {
+    "system_name": "Hunter PGJ-04 Mid-Range Gear-Drive Rotor (2.0 GPM)",
+    "slug": "hunter-pgj-04-mid-range-gear-drive-rotor-20-gpm-heads-per-zone-calculator",
+    "title": "Hunter PGJ-04 Mid-Range Gear-Drive Rotor (2.0 GPM) Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 6.0 GPM), total solenoid zones (5 zones / 13 heads), 5-FPS 3/4-Inch or 1\" Poly/PVC sizing, and 57-min runtime for Hunter PGJ-04 Mid-Range Gear-Drive Rotor (2.0 GPM).",
+    "heads_zn": 3,
+    "zn_gpm": 6.0,
+    "zones": 5,
+    "run_min": 57,
+    "date": "2026-11-10"
+  },
+  {
+    "system_name": "Rain Bird 3504-PC SAM Mid-Range Rotor (2.0 GPM Nozzle)",
+    "slug": "rain-bird-3504-pc-sam-mid-range-rotor-20-gpm-nozzle-heads-per-zone-calculator",
+    "title": "Rain Bird 3504-PC SAM Mid-Range Rotor (2.0 GPM Nozzle) Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 6.0 GPM), total solenoid zones (5 zones / 13 heads), 5-FPS 3/4-Inch or 1\" Poly/PVC sizing, and 57-min runtime for Rain Bird 3504-PC SAM Mid-Range Rotor (2.0 GPM Nozzle).",
+    "heads_zn": 3,
+    "zn_gpm": 6.0,
+    "zones": 5,
+    "run_min": 57,
+    "date": "2026-11-10"
+  },
+  {
+    "system_name": "K-Rain RPS75 & MiniPro Gear-Drive Rotor Zone Sizing",
+    "slug": "k-rain-rps75-minipro-gear-drive-rotor-zone-sizing-heads-per-zone-calculator",
+    "title": "K-Rain RPS75 & MiniPro Gear-Drive Rotor Zone Sizing Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 8.4 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch PVC / Poly Pipe sizing, and 75-min runtime for K-Rain RPS75 & MiniPro Gear-Drive Rotor Zone Sizing.",
+    "heads_zn": 3,
+    "zn_gpm": 8.4,
+    "zones": 3,
+    "run_min": 75,
+    "date": "2026-11-10"
   }
 ]
