@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "system_name": "Hunter PGP-ADJ / PGP Ultra Rotor (3.0 GPM #3.0 Nozzle)",
+    "slug": "hunter-pgp-adj-pgp-ultra-rotor-30-gpm-30-nozzle-heads-per-zone-calculator",
+    "title": "Hunter PGP-ADJ / PGP Ultra Rotor (3.0 GPM #3.0 Nozzle) Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 8 heads), 5-FPS 1-Inch Schedule 40 PVC / Poly sizing, and 79-min runtime for Hunter PGP-ADJ / PGP Ultra Rotor (3.0 GPM #3.0 Nozzle).",
+    "heads_zn": 3,
+    "zn_gpm": 9.0,
+    "zones": 3,
+    "run_min": 79,
+    "date": "2026-11-10"
+  },
+  {
+    "system_name": "Rain Bird 5000 / 5004-PC Plus Rotor (3.0 GPM Rain Curtain)",
+    "slug": "rain-bird-5000-5004-pc-plus-rotor-30-gpm-rain-curtain-heads-per-zone-calculator",
+    "title": "Rain Bird 5000 / 5004-PC Plus Rotor (3.0 GPM Rain Curtain) Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 8 heads), 5-FPS 1-Inch Schedule 40 PVC / Poly sizing, and 79-min runtime for Rain Bird 5000 / 5004-PC Plus Rotor (3.0 GPM Rain Curtain).",
+    "heads_zn": 3,
+    "zn_gpm": 9.0,
+    "zones": 3,
+    "run_min": 79,
+    "date": "2026-11-10"
+  },
+  {
+    "system_name": "Hunter MP Rotator MP1000 / MP2000 High-Efficiency Nozzle",
+    "slug": "hunter-mp-rotator-mp1000-mp2000-high-efficiency-nozzle-heads-per-zone-calculator",
+    "title": "Hunter MP Rotator MP1000 / MP2000 High-Efficiency Nozzle Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (10 heads @ 7.5 GPM), total solenoid zones (2 zones / 19 heads), 5-FPS 3/4-Inch or 1\" PVC / Poly sizing, and 86-min runtime for Hunter MP Rotator MP1000 / MP2000 High-Efficiency Nozzle.",
+    "heads_zn": 10,
+    "zn_gpm": 7.5,
+    "zones": 2,
+    "run_min": 86,
+    "date": "2026-11-10"
+  }
+]

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SprinklerZoneIndex — Lawn Sprinkler Heads Per Zone, GPM, Pipe Size & Manifold Calculator (2026)</title>
+  <meta name="description" content="Calculate exact lawn irrigation sprinkler heads per zone, 5-FPS PVC and poly pipe velocity limits, 24VAC solenoid valve manifold counts, and precipitation rate watering minutes for Hunter PGP, Rain Bird 5000, MP Rotators, and Rachio systems.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/sprinkler-zone-index/">
+  <link rel="alternate" type="application/rss+xml" title="SprinklerZoneIndex RSS Feed" href="https://hanifsalman11.github.io/sprinkler-zone-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col">
+  <header class="border-b border-slate-800 bg-slate-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-emerald-500 text-slate-950 px-2 py-0.5 rounded font-black">SPRINKLER</span>ZoneIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=Rain%2BBird%2BHunter%2BPGP%2BRotor%2BSprinkler%2BHeads%2BValve%2BManifold%2BRachio%2BController&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Sprinkler Heads, Valve Manifolds & Controllers on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Lawn Sprinkler Heads Per Zone, GPM & Pipe Sizing Database</h1>
+      <p class="text-slate-400 mt-3 text-base sm:text-lg">Select your sprinkler head model, water supply GPM, or lawn area below to calculate maximum heads per zone under the 5-FPS pipe velocity rule, solenoid manifold zones, and watering runtime minutes.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search rotor model, GPM, or lawn size (e.g. Hunter PGP, Rain Bird 5000, MP Rotator, 12 GPM, 5000 Sq Ft, Febco 765...)" class="w-full bg-slate-900 border border-slate-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-emerald-500">
+      </div>
+    </div>
+
+    <div id="irrGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="hunter-mp-rotator-mp1000-mp2000-high-efficiency-nozzle-heads-per-zone-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-emerald-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-emerald-500 text-slate-950 px-2.5 py-0.5 rounded">10 Heads/Zone (7.5 GPM)</span>
+            <span class="text-xs text-slate-400">2 Zones | 86m Run</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-emerald-400 transition">Hunter MP Rotator MP1000 / MP2000 High-Efficiency Nozzle</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact sprinkler heads per zone (10 heads @ 7.5 GPM), total solenoid zones (2 zones / 19 heads), 5-FPS 3/4-Inch or 1" PVC / Poly sizing, and 86-min runtime for Hunter MP Rotator MP1000 / MP2000 High-Efficiency Nozzle.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-emerald-400">Calculate Heads/Zone, Pipe & Runtime →</span>
+        </a>
+        <a href="rain-bird-5000-5004-pc-plus-rotor-30-gpm-rain-curtain-heads-per-zone-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-emerald-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-emerald-500 text-slate-950 px-2.5 py-0.5 rounded">3 Heads/Zone (9.0 GPM)</span>
+            <span class="text-xs text-slate-400">3 Zones | 79m Run</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-emerald-400 transition">Rain Bird 5000 / 5004-PC Plus Rotor (3.0 GPM Rain Curtain)</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 8 heads), 5-FPS 1-Inch Schedule 40 PVC / Poly sizing, and 79-min runtime for Rain Bird 5000 / 5004-PC Plus Rotor (3.0 GPM Rain Curtain).</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-emerald-400">Calculate Heads/Zone, Pipe & Runtime →</span>
+        </a>
+        <a href="hunter-pgp-adj-pgp-ultra-rotor-30-gpm-30-nozzle-heads-per-zone-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-emerald-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-emerald-500 text-slate-950 px-2.5 py-0.5 rounded">3 Heads/Zone (9.0 GPM)</span>
+            <span class="text-xs text-slate-400">3 Zones | 79m Run</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-emerald-400 transition">Hunter PGP-ADJ / PGP Ultra Rotor (3.0 GPM #3.0 Nozzle)</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 8 heads), 5-FPS 1-Inch Schedule 40 PVC / Poly sizing, and 79-min runtime for Hunter PGP-ADJ / PGP Ultra Rotor (3.0 GPM #3.0 Nozzle).</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-emerald-400">Calculate Heads/Zone, Pipe & Runtime →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-slate-800 py-8 text-center text-xs text-slate-500">
+    <p>© 2026 SprinklerZoneIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('irrGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>
