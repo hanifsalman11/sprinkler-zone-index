@@ -130,5 +130,38 @@
     "zones": 4,
     "run_min": 79,
     "date": "2026-11-11"
+  },
+  {
+    "system_name": "Febco 765-1 (1-Inch) vs 765-3/4 Pressure Vacuum Breaker",
+    "slug": "febco-765-1-1-inch-vs-765-34-pressure-vacuum-breaker-heads-per-zone-calculator",
+    "title": "Febco 765-1 (1-Inch) vs 765-3/4 Pressure Vacuum Breaker Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (4 zones / 10 heads), 5-FPS 1-Inch Brass PVB Backflow sizing, and 79-min runtime for Febco 765-1 (1-Inch) vs 765-3/4 Pressure Vacuum Breaker.",
+    "heads_zn": 3,
+    "zn_gpm": 9.0,
+    "zones": 4,
+    "run_min": 79,
+    "date": "2026-11-11"
+  },
+  {
+    "system_name": "Zurn Wilkins 720A & Watts 800M4-QT 1\" Backflow Preventer",
+    "slug": "zurn-wilkins-720a-watts-800m4-qt-1-backflow-preventer-heads-per-zone-calculator",
+    "title": "Zurn Wilkins 720A & Watts 800M4-QT 1\" Backflow Preventer Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (4 zones / 10 heads), 5-FPS 1-Inch Brass PVB Backflow sizing, and 79-min runtime for Zurn Wilkins 720A & Watts 800M4-QT 1\" Backflow Preventer.",
+    "heads_zn": 3,
+    "zn_gpm": 9.0,
+    "zones": 4,
+    "run_min": 79,
+    "date": "2026-11-11"
+  },
+  {
+    "system_name": "Rachio 3 Smart 8-Zone vs 16-Zone Wi-Fi Sprinkler Controller",
+    "slug": "rachio-3-smart-8-zone-vs-16-zone-wi-fi-sprinkler-controller-heads-per-zone-calculator",
+    "title": "Rachio 3 Smart 8-Zone vs 16-Zone Wi-Fi Sprinkler Controller Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 7.5 GPM), total solenoid zones (5 zones / 15 heads), 5-FPS 18/8 Multi-Strand Wire sizing, and 73-min runtime for Rachio 3 Smart 8-Zone vs 16-Zone Wi-Fi Sprinkler Controller.",
+    "heads_zn": 3,
+    "zn_gpm": 7.5,
+    "zones": 5,
+    "run_min": 73,
+    "date": "2026-11-11"
   }
 ]
