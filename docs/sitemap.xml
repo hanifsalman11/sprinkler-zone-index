@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hanifsalman11.github.io/sprinkler-zone-index/</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -129,6 +129,24 @@
   <url>
     <loc>https://hanifsalman11.github.io/sprinkler-zone-index/2500-sq-ft-small-front-yard-sprinkler-zone-head-sizing-heads-per-zone-calculator.html</loc>
     <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/sprinkler-zone-index/5000-sq-ft-suburban-lawn-sprinkler-zone-manifold-sizing-heads-per-zone-calculator.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/sprinkler-zone-index/7500-sq-ft-quarter-acre-lawn-sprinkler-zone-valve-sizing-heads-per-zone-calculator.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/sprinkler-zone-index/10000-sq-ft-half-acre-lot-sprinkler-zone-controller-sizing-heads-per-zone-calculator.html</loc>
+    <lastmod>2026-11-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>

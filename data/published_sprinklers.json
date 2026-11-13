@@ -229,5 +229,38 @@
     "zones": 3,
     "run_min": 57,
     "date": "2026-11-12"
+  },
+  {
+    "system_name": "5,000 Sq Ft Suburban Lawn Sprinkler Zone & Manifold Sizing",
+    "slug": "5000-sq-ft-suburban-lawn-sprinkler-zone-manifold-sizing-heads-per-zone-calculator",
+    "title": "5,000 Sq Ft Suburban Lawn Sprinkler Zone & Manifold Sizing Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 8 heads), 5-FPS 1-Inch PVC / Poly Pipe sizing, and 79-min runtime for 5,000 Sq Ft Suburban Lawn Sprinkler Zone & Manifold Sizing.",
+    "heads_zn": 3,
+    "zn_gpm": 9.0,
+    "zones": 3,
+    "run_min": 79,
+    "date": "2026-11-13"
+  },
+  {
+    "system_name": "7,500 Sq Ft Quarter-Acre Lawn Sprinkler Zone & Valve Sizing",
+    "slug": "7500-sq-ft-quarter-acre-lawn-sprinkler-zone-valve-sizing-heads-per-zone-calculator",
+    "title": "7,500 Sq Ft Quarter-Acre Lawn Sprinkler Zone & Valve Sizing Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (4 zones / 12 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 79-min runtime for 7,500 Sq Ft Quarter-Acre Lawn Sprinkler Zone & Valve Sizing.",
+    "heads_zn": 3,
+    "zn_gpm": 9.0,
+    "zones": 4,
+    "run_min": 79,
+    "date": "2026-11-13"
+  },
+  {
+    "system_name": "10,000 Sq Ft Half-Acre Lot Sprinkler Zone & Controller Sizing",
+    "slug": "10000-sq-ft-half-acre-lot-sprinkler-zone-controller-sizing-heads-per-zone-calculator",
+    "title": "10,000 Sq Ft Half-Acre Lot Sprinkler Zone & Controller Sizing Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (5 zones / 14 heads), 5-FPS 1-Inch or 1-1/4\" Mainline sizing, and 86-min runtime for 10,000 Sq Ft Half-Acre Lot Sprinkler Zone & Controller Sizing.",
+    "heads_zn": 3,
+    "zn_gpm": 9.0,
+    "zones": 5,
+    "run_min": 86,
+    "date": "2026-11-13"
   }
 ]
