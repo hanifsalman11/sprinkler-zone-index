@@ -262,5 +262,38 @@
     "zones": 5,
     "run_min": 86,
     "date": "2026-11-13"
+  },
+  {
+    "system_name": "15,000 Sq Ft Estate Lawn 12-to-16 Zone Irrigation Sizing",
+    "slug": "15000-sq-ft-estate-lawn-12-to-16-zone-irrigation-sizing-heads-per-zone-calculator",
+    "title": "15,000 Sq Ft Estate Lawn 12-to-16 Zone Irrigation Sizing Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 9.6 GPM), total solenoid zones (7 zones / 19 heads), 5-FPS 1-1/4\" Main + 1\" Laterals sizing, and 86-min runtime for 15,000 Sq Ft Estate Lawn 12-to-16 Zone Irrigation Sizing.",
+    "heads_zn": 3,
+    "zn_gpm": 9.6,
+    "zones": 7,
+    "run_min": 86,
+    "date": "2026-11-13"
+  },
+  {
+    "system_name": "8 GPM Low-Flow Well Pump Lawn Sprinkler Zone Sizing",
+    "slug": "8-gpm-low-flow-well-pump-lawn-sprinkler-zone-sizing-heads-per-zone-calculator",
+    "title": "8 GPM Low-Flow Well Pump Lawn Sprinkler Zone Sizing Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (4 heads @ 6.0 GPM), total solenoid zones (4 zones / 13 heads), 5-FPS MP Rotator Low-GPM Zones sizing, and 86-min runtime for 8 GPM Low-Flow Well Pump Lawn Sprinkler Zone Sizing.",
+    "heads_zn": 4,
+    "zn_gpm": 6.0,
+    "zones": 4,
+    "run_min": 86,
+    "date": "2026-11-13"
+  },
+  {
+    "system_name": "10 GPM City Water Meter (5/8\") Lawn Sprinkler Zone Sizing",
+    "slug": "10-gpm-city-water-meter-58-lawn-sprinkler-zone-sizing-heads-per-zone-calculator",
+    "title": "10 GPM City Water Meter (5/8\") Lawn Sprinkler Zone Sizing Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 7.5 GPM), total solenoid zones (4 zones / 10 heads), 5-FPS 3/4\" or 1\" Lateral Pipe sizing, and 73-min runtime for 10 GPM City Water Meter (5/8\") Lawn Sprinkler Zone Sizing.",
+    "heads_zn": 3,
+    "zn_gpm": 7.5,
+    "zones": 4,
+    "run_min": 73,
+    "date": "2026-11-13"
   }
 ]
