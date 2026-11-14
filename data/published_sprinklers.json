@@ -361,5 +361,38 @@
     "zones": 3,
     "run_min": 70,
     "date": "2026-11-14"
+  },
+  {
+    "system_name": "With 70 Psi",
+    "slug": "with-70-psi-heads-per-zone-calculator",
+    "title": "With 70 Psi Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for With 70 Psi.",
+    "heads_zn": 3,
+    "zn_gpm": 9.0,
+    "zones": 3,
+    "run_min": 70,
+    "date": "2026-11-14"
+  },
+  {
+    "system_name": "With 30 Psi",
+    "slug": "with-30-psi-heads-per-zone-calculator",
+    "title": "With 30 Psi Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for With 30 Psi.",
+    "heads_zn": 3,
+    "zn_gpm": 9.0,
+    "zones": 3,
+    "run_min": 70,
+    "date": "2026-11-14"
+  },
+  {
+    "system_name": "With 50 Psi",
+    "slug": "with-50-psi-heads-per-zone-calculator",
+    "title": "With 50 Psi Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for With 50 Psi.",
+    "heads_zn": 3,
+    "zn_gpm": 9.0,
+    "zones": 3,
+    "run_min": 70,
+    "date": "2026-11-14"
   }
 ]
