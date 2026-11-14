@@ -295,5 +295,38 @@
     "zones": 4,
     "run_min": 73,
     "date": "2026-11-13"
+  },
+  {
+    "system_name": "15 GPM High-Flow 1\" Water Meter Lawn Sprinkler Sizing",
+    "slug": "15-gpm-high-flow-1-water-meter-lawn-sprinkler-sizing-heads-per-zone-calculator",
+    "title": "15 GPM High-Flow 1\" Water Meter Lawn Sprinkler Sizing Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (5 zones / 13 heads), 5-FPS 1-Inch Lateral Pipe sizing, and 79-min runtime for 15 GPM High-Flow 1\" Water Meter Lawn Sprinkler Sizing.",
+    "heads_zn": 3,
+    "zn_gpm": 9.0,
+    "zones": 5,
+    "run_min": 79,
+    "date": "2026-11-14"
+  },
+  {
+    "system_name": "1.5 HP Cast-Iron Lawn Sprinkler Booster Pump (Lake/Well)",
+    "slug": "15-hp-cast-iron-lawn-sprinkler-booster-pump-lakewell-heads-per-zone-calculator",
+    "title": "1.5 HP Cast-Iron Lawn Sprinkler Booster Pump (Lake/Well) Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (4 heads @ 14.0 GPM), total solenoid zones (4 zones / 13 heads), 5-FPS 1-1/4\" Suction + 1\" Zones sizing, and 81-min runtime for 1.5 HP Cast-Iron Lawn Sprinkler Booster Pump (Lake/Well).",
+    "heads_zn": 4,
+    "zn_gpm": 14.0,
+    "zones": 4,
+    "run_min": 81,
+    "date": "2026-11-14"
+  },
+  {
+    "system_name": "Drip Irrigation Pressure Regulator (25 PSI) & GPH Emitter Zone",
+    "slug": "drip-irrigation-pressure-regulator-25-psi-gph-emitter-zone-heads-per-zone-calculator",
+    "title": "Drip Irrigation Pressure Regulator (25 PSI) & GPH Emitter Zone Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (12 heads @ 6.0 GPM), total solenoid zones (2 zones / 11 heads), 5-FPS 1/2-Inch Poly Drip Tubing sizing, and 67-min runtime for Drip Irrigation Pressure Regulator (25 PSI) & GPH Emitter Zone.",
+    "heads_zn": 12,
+    "zn_gpm": 6.0,
+    "zones": 2,
+    "run_min": 67,
+    "date": "2026-11-14"
   }
 ]
