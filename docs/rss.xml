@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/sprinkler-zone-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>With 65 Psi Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sprinkler-zone-index/with-65-psi-heads-per-zone-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/with-65-psi-heads-per-zone-calculator.html</guid>
+      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for With 65 Psi.</description>
+    </item>
+    <item>
+      <title>With 40 Psi Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sprinkler-zone-index/with-40-psi-heads-per-zone-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/with-40-psi-heads-per-zone-calculator.html</guid>
+      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for With 40 Psi.</description>
+    </item>
+    <item>
+      <title>With 60 Psi Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sprinkler-zone-index/with-60-psi-heads-per-zone-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/with-60-psi-heads-per-zone-calculator.html</guid>
+      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for With 60 Psi.</description>
+    </item>
+    <item>
       <title>Drip Irrigation Pressure Regulator (25 PSI) & GPH Emitter Zone Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/sprinkler-zone-index/drip-irrigation-pressure-regulator-25-psi-gph-emitter-zone-heads-per-zone-calculator.html</link>
       <guid>https://hanifsalman11.github.io/sprinkler-zone-index/drip-irrigation-pressure-regulator-25-psi-gph-emitter-zone-heads-per-zone-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/sprinkler-zone-index/rain-bird-r-van-14-18-24-rotary-nozzle-retrofit-heads-per-zone-calculator.html</link>
       <guid>https://hanifsalman11.github.io/sprinkler-zone-index/rain-bird-r-van-14-18-24-rotary-nozzle-retrofit-heads-per-zone-calculator.html</guid>
       <description>Calculate exact sprinkler heads per zone (9 heads @ 7.6 GPM), total solenoid zones (3 zones / 19 heads), 5-FPS 3/4-Inch or 1" PVC / Poly sizing, and 86-min runtime for Rain Bird R-VAN 14 / 18 / 24 Rotary Nozzle Retrofit.</description>
-    </item>
-    <item>
-      <title>Hunter MP Rotator MP1000 / MP2000 High-Efficiency Nozzle Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-mp-rotator-mp1000-mp2000-high-efficiency-nozzle-heads-per-zone-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-mp-rotator-mp1000-mp2000-high-efficiency-nozzle-heads-per-zone-calculator.html</guid>
-      <description>Calculate exact sprinkler heads per zone (10 heads @ 7.5 GPM), total solenoid zones (2 zones / 19 heads), 5-FPS 3/4-Inch or 1" PVC / Poly sizing, and 86-min runtime for Hunter MP Rotator MP1000 / MP2000 High-Efficiency Nozzle.</description>
-    </item>
-    <item>
-      <title>Rain Bird 5000 / 5004-PC Plus Rotor (3.0 GPM Rain Curtain) Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sprinkler-zone-index/rain-bird-5000-5004-pc-plus-rotor-30-gpm-rain-curtain-heads-per-zone-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/rain-bird-5000-5004-pc-plus-rotor-30-gpm-rain-curtain-heads-per-zone-calculator.html</guid>
-      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 8 heads), 5-FPS 1-Inch Schedule 40 PVC / Poly sizing, and 79-min runtime for Rain Bird 5000 / 5004-PC Plus Rotor (3.0 GPM Rain Curtain).</description>
-    </item>
-    <item>
-      <title>Hunter PGP-ADJ / PGP Ultra Rotor (3.0 GPM #3.0 Nozzle) Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-adj-pgp-ultra-rotor-30-gpm-30-nozzle-heads-per-zone-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-adj-pgp-ultra-rotor-30-gpm-30-nozzle-heads-per-zone-calculator.html</guid>
-      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 8 heads), 5-FPS 1-Inch Schedule 40 PVC / Poly sizing, and 79-min runtime for Hunter PGP-ADJ / PGP Ultra Rotor (3.0 GPM #3.0 Nozzle).</description>
     </item>
   </channel>
 </rss>
