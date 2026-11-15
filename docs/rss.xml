@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/sprinkler-zone-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Hunter Pgp Rotor Adjustment Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-rotor-adjustment-heads-per-zone-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-rotor-adjustment-heads-per-zone-calculator.html</guid>
+      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Hunter Pgp Rotor Adjustment.</description>
+    </item>
+    <item>
+      <title>Hunter Pgp Rotor Nozzle Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-rotor-nozzle-heads-per-zone-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-rotor-nozzle-heads-per-zone-calculator.html</guid>
+      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Hunter Pgp Rotor Nozzle.</description>
+    </item>
+    <item>
+      <title>Hunter Pgp Rotor Sprinkler Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-rotor-sprinkler-heads-per-zone-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-rotor-sprinkler-heads-per-zone-calculator.html</guid>
+      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Hunter Pgp Rotor Sprinkler.</description>
+    </item>
+    <item>
       <title>With 45 Psi Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/sprinkler-zone-index/with-45-psi-heads-per-zone-calculator.html</link>
       <guid>https://hanifsalman11.github.io/sprinkler-zone-index/with-45-psi-heads-per-zone-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/sprinkler-zone-index/febco-765-1-1-inch-vs-765-34-pressure-vacuum-breaker-heads-per-zone-calculator.html</link>
       <guid>https://hanifsalman11.github.io/sprinkler-zone-index/febco-765-1-1-inch-vs-765-34-pressure-vacuum-breaker-heads-per-zone-calculator.html</guid>
       <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (4 zones / 10 heads), 5-FPS 1-Inch Brass PVB Backflow sizing, and 79-min runtime for Febco 765-1 (1-Inch) vs 765-3/4 Pressure Vacuum Breaker.</description>
-    </item>
-    <item>
-      <title>Rain Bird DV100 & JTV 1-Inch Solenoid Valve Manifold Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sprinkler-zone-index/rain-bird-dv100-jtv-1-inch-solenoid-valve-manifold-heads-per-zone-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/rain-bird-dv100-jtv-1-inch-solenoid-valve-manifold-heads-per-zone-calculator.html</guid>
-      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (4 zones / 10 heads), 5-FPS 1-Inch Schedule 40 Manifold sizing, and 79-min runtime for Rain Bird DV100 & JTV 1-Inch Solenoid Valve Manifold.</description>
-    </item>
-    <item>
-      <title>Hunter PGV-101G 1-Inch 24VAC Manifold Solenoid Valve Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgv-101g-1-inch-24vac-manifold-solenoid-valve-heads-per-zone-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgv-101g-1-inch-24vac-manifold-solenoid-valve-heads-per-zone-calculator.html</guid>
-      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (4 zones / 10 heads), 5-FPS 1-Inch Action Manifold sizing, and 79-min runtime for Hunter PGV-101G 1-Inch 24VAC Manifold Solenoid Valve.</description>
-    </item>
-    <item>
-      <title>Orbit Saturn III & Voyager II Gear-Drive Rotor Zone Sizing Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sprinkler-zone-index/orbit-saturn-iii-voyager-ii-gear-drive-rotor-zone-sizing-heads-per-zone-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/orbit-saturn-iii-voyager-ii-gear-drive-rotor-zone-sizing-heads-per-zone-calculator.html</guid>
-      <description>Calculate exact sprinkler heads per zone (3 heads @ 7.5 GPM), total solenoid zones (4 zones / 11 heads), 5-FPS 3/4-Inch or 1" Poly/PVC sizing, and 64-min runtime for Orbit Saturn III & Voyager II Gear-Drive Rotor Zone Sizing.</description>
     </item>
   </channel>
 </rss>
