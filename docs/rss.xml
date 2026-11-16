@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/sprinkler-zone-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Hunter Pgp Rotor Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-rotor-heads-per-zone-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-rotor-heads-per-zone-calculator.html</guid>
+      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Hunter Pgp Rotor.</description>
+    </item>
+    <item>
+      <title>Hunter Pgp Rotor Nozzles Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-rotor-nozzles-heads-per-zone-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-rotor-nozzles-heads-per-zone-calculator.html</guid>
+      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Hunter Pgp Rotor Nozzles.</description>
+    </item>
+    <item>
+      <title>Hunter Pgp Rotor Sprinkler Head Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-rotor-sprinkler-head-heads-per-zone-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-rotor-sprinkler-head-heads-per-zone-calculator.html</guid>
+      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Hunter Pgp Rotor Sprinkler Head.</description>
+    </item>
+    <item>
       <title>Hunter Pgp Rotor Adjustment Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-rotor-adjustment-heads-per-zone-calculator.html</link>
       <guid>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-rotor-adjustment-heads-per-zone-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/sprinkler-zone-index/orbit-b-hyve-xr-8-zone-16-zone-smart-indooroutdoor-timer-heads-per-zone-calculator.html</link>
       <guid>https://hanifsalman11.github.io/sprinkler-zone-index/orbit-b-hyve-xr-8-zone-16-zone-smart-indooroutdoor-timer-heads-per-zone-calculator.html</guid>
       <description>Calculate exact sprinkler heads per zone (3 heads @ 7.5 GPM), total solenoid zones (5 zones / 14 heads), 5-FPS 18/8 Multi-Strand Wire sizing, and 73-min runtime for Orbit B-hyve XR 8-Zone & 16-Zone Smart Indoor/Outdoor Timer.</description>
-    </item>
-    <item>
-      <title>Rachio 3 Smart 8-Zone vs 16-Zone Wi-Fi Sprinkler Controller Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sprinkler-zone-index/rachio-3-smart-8-zone-vs-16-zone-wi-fi-sprinkler-controller-heads-per-zone-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/rachio-3-smart-8-zone-vs-16-zone-wi-fi-sprinkler-controller-heads-per-zone-calculator.html</guid>
-      <description>Calculate exact sprinkler heads per zone (3 heads @ 7.5 GPM), total solenoid zones (5 zones / 15 heads), 5-FPS 18/8 Multi-Strand Wire sizing, and 73-min runtime for Rachio 3 Smart 8-Zone vs 16-Zone Wi-Fi Sprinkler Controller.</description>
-    </item>
-    <item>
-      <title>Zurn Wilkins 720A & Watts 800M4-QT 1" Backflow Preventer Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sprinkler-zone-index/zurn-wilkins-720a-watts-800m4-qt-1-backflow-preventer-heads-per-zone-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/zurn-wilkins-720a-watts-800m4-qt-1-backflow-preventer-heads-per-zone-calculator.html</guid>
-      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (4 zones / 10 heads), 5-FPS 1-Inch Brass PVB Backflow sizing, and 79-min runtime for Zurn Wilkins 720A & Watts 800M4-QT 1" Backflow Preventer.</description>
-    </item>
-    <item>
-      <title>Febco 765-1 (1-Inch) vs 765-3/4 Pressure Vacuum Breaker Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sprinkler-zone-index/febco-765-1-1-inch-vs-765-34-pressure-vacuum-breaker-heads-per-zone-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/febco-765-1-1-inch-vs-765-34-pressure-vacuum-breaker-heads-per-zone-calculator.html</guid>
-      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (4 zones / 10 heads), 5-FPS 1-Inch Brass PVB Backflow sizing, and 79-min runtime for Febco 765-1 (1-Inch) vs 765-3/4 Pressure Vacuum Breaker.</description>
     </item>
   </channel>
 </rss>
