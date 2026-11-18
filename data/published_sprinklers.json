@@ -625,5 +625,38 @@
     "zones": 3,
     "run_min": 70,
     "date": "2026-11-18"
+  },
+  {
+    "system_name": "Rain Bird 5000 Rotor Not Turning",
+    "slug": "rain-bird-5000-rotor-not-turning-heads-per-zone-calculator",
+    "title": "Rain Bird 5000 Rotor Not Turning Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Rain Bird 5000 Rotor Not Turning.",
+    "heads_zn": 3,
+    "zn_gpm": 9.0,
+    "zones": 3,
+    "run_min": 70,
+    "date": "2026-11-18"
+  },
+  {
+    "system_name": "Sprinkler Zone",
+    "slug": "sprinkler-zone-heads-per-zone-calculator",
+    "title": "Sprinkler Zone Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Sprinkler Zone.",
+    "heads_zn": 3,
+    "zn_gpm": 9.0,
+    "zones": 3,
+    "run_min": 70,
+    "date": "2026-11-18"
+  },
+  {
+    "system_name": "Irrigation Zone",
+    "slug": "irrigation-zone-heads-per-zone-calculator",
+    "title": "Irrigation Zone Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Irrigation Zone.",
+    "heads_zn": 3,
+    "zn_gpm": 9.0,
+    "zones": 3,
+    "run_min": 70,
+    "date": "2026-11-18"
   }
 ]
