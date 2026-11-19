@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/sprinkler-zone-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Rainbird Sprinkler Zone Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sprinkler-zone-index/rainbird-sprinkler-zone-heads-per-zone-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/rainbird-sprinkler-zone-heads-per-zone-calculator.html</guid>
+      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Rainbird Sprinkler Zone.</description>
+    </item>
+    <item>
+      <title>Sprinkler System Zone Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sprinkler-zone-index/sprinkler-system-zone-heads-per-zone-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/sprinkler-system-zone-heads-per-zone-calculator.html</guid>
+      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Sprinkler System Zone.</description>
+    </item>
+    <item>
+      <title>Hunter Sprinkler Zone Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-sprinkler-zone-heads-per-zone-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-sprinkler-zone-heads-per-zone-calculator.html</guid>
+      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Hunter Sprinkler Zone.</description>
+    </item>
+    <item>
       <title>Irrigation Zone Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/sprinkler-zone-index/irrigation-zone-heads-per-zone-calculator.html</link>
       <guid>https://hanifsalman11.github.io/sprinkler-zone-index/irrigation-zone-heads-per-zone-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/sprinkler-zone-index/with-70-psi-heads-per-zone-calculator.html</link>
       <guid>https://hanifsalman11.github.io/sprinkler-zone-index/with-70-psi-heads-per-zone-calculator.html</guid>
       <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for With 70 Psi.</description>
-    </item>
-    <item>
-      <title>With 65 Psi Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sprinkler-zone-index/with-65-psi-heads-per-zone-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/with-65-psi-heads-per-zone-calculator.html</guid>
-      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for With 65 Psi.</description>
-    </item>
-    <item>
-      <title>With 40 Psi Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sprinkler-zone-index/with-40-psi-heads-per-zone-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/with-40-psi-heads-per-zone-calculator.html</guid>
-      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for With 40 Psi.</description>
-    </item>
-    <item>
-      <title>With 60 Psi Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sprinkler-zone-index/with-60-psi-heads-per-zone-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/with-60-psi-heads-per-zone-calculator.html</guid>
-      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for With 60 Psi.</description>
     </item>
   </channel>
 </rss>
