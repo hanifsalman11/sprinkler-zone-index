@@ -691,5 +691,38 @@
     "zones": 3,
     "run_min": 70,
     "date": "2026-11-19"
+  },
+  {
+    "system_name": "Lawn Sprinkler Zone",
+    "slug": "lawn-sprinkler-zone-heads-per-zone-calculator",
+    "title": "Lawn Sprinkler Zone Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Lawn Sprinkler Zone.",
+    "heads_zn": 3,
+    "zn_gpm": 9.0,
+    "zones": 3,
+    "run_min": 70,
+    "date": "2026-11-19"
+  },
+  {
+    "system_name": "Sprinklers Per Zone",
+    "slug": "sprinklers-per-zone-heads-per-zone-calculator",
+    "title": "Sprinklers Per Zone Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Sprinklers Per Zone.",
+    "heads_zn": 3,
+    "zn_gpm": 9.0,
+    "zones": 3,
+    "run_min": 70,
+    "date": "2026-11-19"
+  },
+  {
+    "system_name": "Sprinkler Heads Per Zone",
+    "slug": "sprinkler-heads-per-zone-heads-per-zone-calculator",
+    "title": "Sprinkler Heads Per Zone Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Sprinkler Heads Per Zone.",
+    "heads_zn": 3,
+    "zn_gpm": 9.0,
+    "zones": 3,
+    "run_min": 70,
+    "date": "2026-11-19"
   }
 ]
