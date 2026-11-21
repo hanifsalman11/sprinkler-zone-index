@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/sprinkler-zone-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>3,000 Sq Ft Lawn on 8 GPM Supply (High-Efficiency MP Rotators (0.8 GPM)) Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sprinkler-zone-index/3000-sq-ft-lawn-on-8-gpm-supply-high-efficiency-mp-rotators-08-gpm-heads-per-zone-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/3000-sq-ft-lawn-on-8-gpm-supply-high-efficiency-mp-rotators-08-gpm-heads-per-zone-calculator.html</guid>
+      <description>Calculate exact sprinkler heads per zone (7 heads @ 5.6 GPM), total solenoid zones (3 zones / 15 heads), 5-FPS 3/4-Inch Poly/PVC sizing, and 86-min runtime for 3,000 Sq Ft Lawn on 8 GPM Supply (High-Efficiency MP Rotators (0.8 GPM)).</description>
+    </item>
+    <item>
       <title>3,000 Sq Ft Lawn on 8 GPM Supply (Mid-Range Gear Rotors (2.0 GPM)) Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/sprinkler-zone-index/3000-sq-ft-lawn-on-8-gpm-supply-mid-range-gear-rotors-20-gpm-heads-per-zone-calculator.html</link>
       <guid>https://hanifsalman11.github.io/sprinkler-zone-index/3000-sq-ft-lawn-on-8-gpm-supply-mid-range-gear-rotors-20-gpm-heads-per-zone-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-rotor-adjustment-heads-per-zone-calculator.html</link>
       <guid>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-rotor-adjustment-heads-per-zone-calculator.html</guid>
       <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Hunter Pgp Rotor Adjustment.</description>
-    </item>
-    <item>
-      <title>Hunter Pgp Rotor Nozzle Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-rotor-nozzle-heads-per-zone-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/hunter-pgp-rotor-nozzle-heads-per-zone-calculator.html</guid>
-      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Hunter Pgp Rotor Nozzle.</description>
     </item>
   </channel>
 </rss>
