@@ -823,5 +823,27 @@
     "zones": 4,
     "run_min": 86,
     "date": "2026-11-23"
+  },
+  {
+    "system_name": "Hunter Pgp Rotor Head",
+    "slug": "hunter-pgp-rotor-head-heads-per-zone-calculator",
+    "title": "Hunter Pgp Rotor Head Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Hunter Pgp Rotor Head.",
+    "heads_zn": 3,
+    "zn_gpm": 9.0,
+    "zones": 3,
+    "run_min": 70,
+    "date": "2026-11-24"
+  },
+  {
+    "system_name": "4,500 Sq Ft Lawn on 8 GPM Supply (Fixed Pop-Up Spray Heads (1.8 GPM))",
+    "slug": "4500-sq-ft-lawn-on-8-gpm-supply-fixed-pop-up-spray-heads-18-gpm-heads-per-zone-calculator",
+    "title": "4,500 Sq Ft Lawn on 8 GPM Supply (Fixed Pop-Up Spray Heads (1.8 GPM)) Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 5.4 GPM), total solenoid zones (11 zones / 31 heads), 5-FPS 3/4-Inch Poly/PVC sizing, and 29-min runtime for 4,500 Sq Ft Lawn on 8 GPM Supply (Fixed Pop-Up Spray Heads (1.8 GPM)).",
+    "heads_zn": 3,
+    "zn_gpm": 5.4,
+    "zones": 11,
+    "run_min": 29,
+    "date": "2026-11-24"
   }
 ]
