@@ -856,5 +856,16 @@
     "zones": 5,
     "run_min": 79,
     "date": "2026-11-24"
+  },
+  {
+    "system_name": "6,000 Sq Ft Lawn on 8 GPM Supply (Mid-Range Gear Rotors (2.0 GPM))",
+    "slug": "6000-sq-ft-lawn-on-8-gpm-supply-mid-range-gear-rotors-20-gpm-heads-per-zone-calculator",
+    "title": "6,000 Sq Ft Lawn on 8 GPM Supply (Mid-Range Gear Rotors (2.0 GPM)) Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 6.0 GPM), total solenoid zones (7 zones / 20 heads), 5-FPS 3/4-Inch Poly/PVC sizing, and 57-min runtime for 6,000 Sq Ft Lawn on 8 GPM Supply (Mid-Range Gear Rotors (2.0 GPM)).",
+    "heads_zn": 3,
+    "zn_gpm": 6.0,
+    "zones": 7,
+    "run_min": 57,
+    "date": "2026-11-24"
   }
 ]
