@@ -867,5 +867,16 @@
     "zones": 7,
     "run_min": 57,
     "date": "2026-11-24"
+  },
+  {
+    "system_name": "6,000 Sq Ft Lawn on 8 GPM Supply (High-Efficiency MP Rotators (0.8 GPM))",
+    "slug": "6000-sq-ft-lawn-on-8-gpm-supply-high-efficiency-mp-rotators-08-gpm-heads-per-zone-calculator",
+    "title": "6,000 Sq Ft Lawn on 8 GPM Supply (High-Efficiency MP Rotators (0.8 GPM)) Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (7 heads @ 5.6 GPM), total solenoid zones (5 zones / 29 heads), 5-FPS 3/4-Inch Poly/PVC sizing, and 86-min runtime for 6,000 Sq Ft Lawn on 8 GPM Supply (High-Efficiency MP Rotators (0.8 GPM)).",
+    "heads_zn": 7,
+    "zn_gpm": 5.6,
+    "zones": 5,
+    "run_min": 86,
+    "date": "2026-11-25"
   }
 ]
