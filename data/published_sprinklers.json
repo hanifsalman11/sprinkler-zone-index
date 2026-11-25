@@ -878,5 +878,16 @@
     "zones": 5,
     "run_min": 86,
     "date": "2026-11-25"
+  },
+  {
+    "system_name": "6,000 Sq Ft Lawn on 8 GPM Supply (Fixed Pop-Up Spray Heads (1.8 GPM))",
+    "slug": "6000-sq-ft-lawn-on-8-gpm-supply-fixed-pop-up-spray-heads-18-gpm-heads-per-zone-calculator",
+    "title": "6,000 Sq Ft Lawn on 8 GPM Supply (Fixed Pop-Up Spray Heads (1.8 GPM)) Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (3 heads @ 5.4 GPM), total solenoid zones (14 zones / 42 heads), 5-FPS 3/4-Inch Poly/PVC sizing, and 29-min runtime for 6,000 Sq Ft Lawn on 8 GPM Supply (Fixed Pop-Up Spray Heads (1.8 GPM)).",
+    "heads_zn": 3,
+    "zn_gpm": 5.4,
+    "zones": 14,
+    "run_min": 29,
+    "date": "2026-11-25"
   }
 ]
