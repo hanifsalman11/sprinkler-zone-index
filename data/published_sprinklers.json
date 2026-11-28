@@ -944,5 +944,16 @@
     "zones": 19,
     "run_min": 29,
     "date": "2026-11-27"
+  },
+  {
+    "system_name": "10,000 Sq Ft Lawn on 8 GPM Supply (Hunter PGP / Rain Bird 5000 Rotors (3.0 GPM))",
+    "slug": "10000-sq-ft-lawn-on-8-gpm-supply-hunter-pgp-rain-bird-5000-rotors-30-gpm-heads-per-zone-calculator",
+    "title": "10,000 Sq Ft Lawn on 8 GPM Supply (Hunter PGP / Rain Bird 5000 Rotors (3.0 GPM)) Heads Per Zone, GPM & Pipe Size Calculator (2026)",
+    "description": "Calculate exact sprinkler heads per zone (2 heads @ 6.0 GPM), total solenoid zones (8 zones / 16 heads), 5-FPS 3/4-Inch Poly/PVC sizing, and 79-min runtime for 10,000 Sq Ft Lawn on 8 GPM Supply (Hunter PGP / Rain Bird 5000 Rotors (3.0 GPM)).",
+    "heads_zn": 2,
+    "zn_gpm": 6.0,
+    "zones": 8,
+    "run_min": 79,
+    "date": "2026-11-28"
   }
 ]
