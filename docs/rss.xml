@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/sprinkler-zone-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>10,000 Sq Ft Lawn on 8 GPM Supply (Mid-Range Gear Rotors (2.0 GPM)) Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/sprinkler-zone-index/10000-sq-ft-lawn-on-8-gpm-supply-mid-range-gear-rotors-20-gpm-heads-per-zone-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/10000-sq-ft-lawn-on-8-gpm-supply-mid-range-gear-rotors-20-gpm-heads-per-zone-calculator.html</guid>
+      <description>Calculate exact sprinkler heads per zone (3 heads @ 6.0 GPM), total solenoid zones (11 zones / 32 heads), 5-FPS 3/4-Inch Poly/PVC sizing, and 57-min runtime for 10,000 Sq Ft Lawn on 8 GPM Supply (Mid-Range Gear Rotors (2.0 GPM)).</description>
+    </item>
+    <item>
       <title>10,000 Sq Ft Lawn on 8 GPM Supply (Hunter PGP / Rain Bird 5000 Rotors (3.0 GPM)) Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/sprinkler-zone-index/10000-sq-ft-lawn-on-8-gpm-supply-hunter-pgp-rain-bird-5000-rotors-30-gpm-heads-per-zone-calculator.html</link>
       <guid>https://hanifsalman11.github.io/sprinkler-zone-index/10000-sq-ft-lawn-on-8-gpm-supply-hunter-pgp-rain-bird-5000-rotors-30-gpm-heads-per-zone-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/sprinkler-zone-index/sprinkler-zone-heads-per-zone-calculator.html</link>
       <guid>https://hanifsalman11.github.io/sprinkler-zone-index/sprinkler-zone-heads-per-zone-calculator.html</guid>
       <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Sprinkler Zone.</description>
-    </item>
-    <item>
-      <title>Rain Bird 5000 Rotor Not Turning Heads Per Zone, GPM & Pipe Size Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/sprinkler-zone-index/rain-bird-5000-rotor-not-turning-heads-per-zone-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/sprinkler-zone-index/rain-bird-5000-rotor-not-turning-heads-per-zone-calculator.html</guid>
-      <description>Calculate exact sprinkler heads per zone (3 heads @ 9.0 GPM), total solenoid zones (3 zones / 9 heads), 5-FPS 1-Inch Schedule 40 PVC sizing, and 70-min runtime for Rain Bird 5000 Rotor Not Turning.</description>
     </item>
   </channel>
 </rss>
